@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppDado2</string>
+    <string name="escolha_o_dado_que_deseja">Escolha o dado que deseja</string>
+    <string name="dado6">Dado com 6</string>
+    <string name="dado12">Dado com 12</string>
+    <string name="dado20">Dado com 20</string>
+    <string name="dadoEscolhido">Dado escolhido</string>
+    <string name="gireDado">Gire o dado</string>
+</resources>
